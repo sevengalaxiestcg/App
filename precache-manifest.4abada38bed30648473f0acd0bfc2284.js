@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f7a1cb8345d60ce83365338219bdd249",
+    "revision": "fda102c77f029bd47487c57e0e102a24",
     "url": "/app/index.html"
   },
   {
-    "revision": "eb1df76d5b90164043e4",
-    "url": "/app/static/css/main.51df4f13.chunk.css"
+    "revision": "638b0ca0c320d37f7379",
+    "url": "/app/static/css/main.c79f7879.chunk.css"
   },
   {
-    "revision": "cd480159dda31a5b69ef",
-    "url": "/app/static/js/2.db084635.chunk.js"
+    "revision": "9b7771eee0bf4ebdbd96",
+    "url": "/app/static/js/2.f797ce0f.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/app/static/js/2.db084635.chunk.js.LICENSE.txt"
+    "url": "/app/static/js/2.f797ce0f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eb1df76d5b90164043e4",
-    "url": "/app/static/js/main.aa438d9c.chunk.js"
+    "revision": "638b0ca0c320d37f7379",
+    "url": "/app/static/js/main.44443db6.chunk.js"
   },
   {
     "revision": "fb683d993c694aeb9312",
@@ -176,12 +176,80 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/static/media/A1-9-Neonyus-cod91.f301c533.png"
   },
   {
-    "revision": "027e8ccfe81cc23f374785bc4bf5da7c",
-    "url": "/app/static/media/A1-F1-Zyberion-Nexus-codF3.027e8ccf.png"
+    "revision": "c071a3cd9cc6d70ec47a3266b8372dd4",
+    "url": "/app/static/media/A1-F1-Zyberion-Nexus-codF3.c071a3cd.png"
   },
   {
     "revision": "77631d91d41e8529335db203c34d886a",
     "url": "/app/static/media/A1-R1-Recurso-codR3.77631d91.png"
+  },
+  {
+    "revision": "0ed6d5bba58c26264841ecc533a7f1a5",
+    "url": "/app/static/media/Adroit_01.0ed6d5bb.jpg"
+  },
+  {
+    "revision": "8c46c4a13aca977957526464e40cde39",
+    "url": "/app/static/media/Adroit_02.8c46c4a1.jpg"
+  },
+  {
+    "revision": "7986147cc5b5ea7aeb860c4551329fde",
+    "url": "/app/static/media/Adroit_03.7986147c.jpg"
+  },
+  {
+    "revision": "c947042fd0a4fde1da10007207019ee1",
+    "url": "/app/static/media/Adroit_04.c947042f.jpg"
+  },
+  {
+    "revision": "ee945d1c069105812f11b6d09c840340",
+    "url": "/app/static/media/Adroit_05.ee945d1c.jpg"
+  },
+  {
+    "revision": "43c464a733be525dbafe72d5e7f5c66b",
+    "url": "/app/static/media/Adroit_06.43c464a7.jpg"
+  },
+  {
+    "revision": "7bf898ab5b636ed05d7fdf24b56add7f",
+    "url": "/app/static/media/Adroit_07.7bf898ab.jpg"
+  },
+  {
+    "revision": "ecfdd6d2e0b03952cbe074b3a8be36f6",
+    "url": "/app/static/media/Adroit_08.ecfdd6d2.jpg"
+  },
+  {
+    "revision": "4fd08383ae12856defbf781b8a05eff7",
+    "url": "/app/static/media/Adroit_09.4fd08383.jpg"
+  },
+  {
+    "revision": "8584c5e7d1e07a4e68b93ce451ea4882",
+    "url": "/app/static/media/Adroit_10.8584c5e7.jpg"
+  },
+  {
+    "revision": "a8b9154c67f91def3b538128b9ab182a",
+    "url": "/app/static/media/Adroit_11.a8b9154c.jpg"
+  },
+  {
+    "revision": "71bc00b43d3e40f34b0aaa0b53a5b1e1",
+    "url": "/app/static/media/Adroit_12.71bc00b4.jpg"
+  },
+  {
+    "revision": "4a3fa933fa90b060a9f40450c114a071",
+    "url": "/app/static/media/Adroit_13.4a3fa933.jpg"
+  },
+  {
+    "revision": "6b9185f9d66e11b16fa9db3f70b14846",
+    "url": "/app/static/media/Adroit_14.6b9185f9.jpg"
+  },
+  {
+    "revision": "4c31f26a696ed764db1af00518600e71",
+    "url": "/app/static/media/Adroit_15.4c31f26a.jpg"
+  },
+  {
+    "revision": "e24cca0de01c292736224dc22e449a23",
+    "url": "/app/static/media/Adroit_16.e24cca0d.jpg"
+  },
+  {
+    "revision": "7611f8fbf7c7b31382b5ad0e29d45e86",
+    "url": "/app/static/media/Adroit_17.7611f8fb.jpg"
   },
   {
     "revision": "6522ba93684bf5b49a7f2299541a71f2",
@@ -336,8 +404,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/static/media/G1-9-Nyssa-Kontos-cod29.bb56a99e.png"
   },
   {
-    "revision": "a51b9bb887c91b232c6a8607b76adb4d",
-    "url": "/app/static/media/G1-F1-Palácio-das-Amazonas-codF2.a51b9bb8.png"
+    "revision": "fb90a33179653d2cbd9ff25f7c1ffdb3",
+    "url": "/app/static/media/G1-F1-Palácio-das-Amazonas-codF2.fb90a331.png"
   },
   {
     "revision": "569da0f8bc9fd53f83498dacdd014aab",
@@ -396,8 +464,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/static/media/Gaia_13.08d796d1.jpg"
   },
   {
-    "revision": "640b33d08ced24029d5b74b0ad2b00bd",
-    "url": "/app/static/media/Gaia_14.640b33d0.jpg"
+    "revision": "7232001b6ddf5f310acab563f4843bbc",
+    "url": "/app/static/media/Gaia_14.7232001b.jpg"
   },
   {
     "revision": "675e38137258785786fe9172ecb93077",
@@ -552,12 +620,92 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/static/media/M1-9-Zakan-O-Gladiador-cod108.4d588e03.png"
   },
   {
-    "revision": "74a8b8f23e8ad0e4ddce9cf996f8cdb8",
-    "url": "/app/static/media/M1-F1-Templo-da- Magia-Arcana-codF4.74a8b8f2.png"
+    "revision": "4d27ed6d2c4108877173f1f42d2cd801",
+    "url": "/app/static/media/M1-F1-Templo-da- Magia-Arcana-codF4.4d27ed6d.png"
   },
   {
     "revision": "7476ce1dbe7fc2ffc7c535e3c6cbde0c",
     "url": "/app/static/media/M1-R1-Recurso-codR4.7476ce1d.png"
+  },
+  {
+    "revision": "f127715f70fc2349646c4862d13d2761",
+    "url": "/app/static/media/Majik_01.f127715f.jpg"
+  },
+  {
+    "revision": "7f654066bbd8146109430e614f1a97d8",
+    "url": "/app/static/media/Majik_02.7f654066.jpg"
+  },
+  {
+    "revision": "32d6f33eade447935b685108e85609bc",
+    "url": "/app/static/media/Majik_03.32d6f33e.jpg"
+  },
+  {
+    "revision": "decf8808eb58e3634402008d16a74ee9",
+    "url": "/app/static/media/Majik_04.decf8808.jpg"
+  },
+  {
+    "revision": "3d4a68ddfeef2643c8dd2ee515495dee",
+    "url": "/app/static/media/Majik_05.3d4a68dd.jpg"
+  },
+  {
+    "revision": "4b67919ae3e558a936a52834ff6ca26d",
+    "url": "/app/static/media/Majik_06.4b67919a.jpg"
+  },
+  {
+    "revision": "d4e0a1615bad8870f39156b02f30229e",
+    "url": "/app/static/media/Majik_07.d4e0a161.jpg"
+  },
+  {
+    "revision": "c4cc96bb2159634c03f71a7ca02d9d18",
+    "url": "/app/static/media/Majik_08.c4cc96bb.jpg"
+  },
+  {
+    "revision": "89a2f87302c53c0e936c598c26ba8cb3",
+    "url": "/app/static/media/Majik_09.89a2f873.jpg"
+  },
+  {
+    "revision": "a470f95fca51761260d907e861df86f2",
+    "url": "/app/static/media/Majik_10.a470f95f.jpg"
+  },
+  {
+    "revision": "cec2764f478688367fcfda7b205e08bc",
+    "url": "/app/static/media/Majik_11.cec2764f.jpg"
+  },
+  {
+    "revision": "4b7c756b02a91eb6066602d33402e006",
+    "url": "/app/static/media/Majik_12.4b7c756b.jpg"
+  },
+  {
+    "revision": "ba6b88e376d12d57ad6598bd01467565",
+    "url": "/app/static/media/Majik_13.ba6b88e3.jpg"
+  },
+  {
+    "revision": "9a8e74219cca6b95024f1059bd9a46fd",
+    "url": "/app/static/media/Majik_14.9a8e7421.jpg"
+  },
+  {
+    "revision": "efe1baa2420f126250f1eb03f8026c26",
+    "url": "/app/static/media/Majik_15.efe1baa2.jpg"
+  },
+  {
+    "revision": "d2259526fb16462ed3c52daee6510e3d",
+    "url": "/app/static/media/Majik_16.d2259526.jpg"
+  },
+  {
+    "revision": "2a59a2218639c70683240bd3f7ced4c9",
+    "url": "/app/static/media/Majik_17.2a59a221.jpg"
+  },
+  {
+    "revision": "33f4d29125a617ed7b6149361bafaaa5",
+    "url": "/app/static/media/Majik_18.33f4d291.jpg"
+  },
+  {
+    "revision": "dd55ba259b839ad2a78d766c9c17b77f",
+    "url": "/app/static/media/Majik_19.dd55ba25.jpg"
+  },
+  {
+    "revision": "3c3360aecda9d0bfddf2377b1c9093ec",
+    "url": "/app/static/media/Majik_20.3c3360ae.jpg"
   },
   {
     "revision": "ee9bc101da0bbee0a354a796f574e82a",
@@ -708,8 +856,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/static/media/S1-9-Nazzbrok-cod9.2d25bafd.png"
   },
   {
-    "revision": "05c6f812958c896e284610a74514cb73",
-    "url": "/app/static/media/S1-F1-Zartrower-codF1.05c6f812.png"
+    "revision": "4517ff64cd67ad771f708ab25ad2d50e",
+    "url": "/app/static/media/S1-F1-Zartrower-codF1.4517ff64.png"
   },
   {
     "revision": "7024895e3393bdcafac86f48ea51f543",
@@ -740,8 +888,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/static/media/SevenG_Universe.e28ff4d5.png"
   },
   {
+    "revision": "e91ffbaebc24ec09b3a210bb0818dd1f",
+    "url": "/app/static/media/Simbolo_Adroit.e91ffbae.png"
+  },
+  {
     "revision": "6e72e8eb77c2f721df79bc860e4cfe40",
     "url": "/app/static/media/Simbolo_Gaia.6e72e8eb.png"
+  },
+  {
+    "revision": "d6602168e697c117e6b22705561674b5",
+    "url": "/app/static/media/Simbolo_Majik.d6602168.png"
   },
   {
     "revision": "b7b08966311b4abf7f8a9f3178704dea",
@@ -804,16 +960,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/static/media/Stroj_13.f806f9f7.jpg"
   },
   {
-    "revision": "8a8ef97e1fe63d4ea430db9bb57037db",
-    "url": "/app/static/media/Stroj_14.8a8ef97e.jpg"
+    "revision": "6125f54cd76ee0eab532b7861542673e",
+    "url": "/app/static/media/Stroj_14.6125f54c.jpg"
   },
   {
     "revision": "52d2a49854dc5f686d04a4dfdae30e9a",
     "url": "/app/static/media/Stroj_15.52d2a498.jpg"
   },
   {
+    "revision": "585ff1d582530d8a1835931a75159c95",
+    "url": "/app/static/media/Tema_Adroit.585ff1d5.jpg"
+  },
+  {
     "revision": "146cb2cc03ce77ce9b8dffda326cc44c",
     "url": "/app/static/media/Tema_Gaia.146cb2cc.jpg"
+  },
+  {
+    "revision": "b8f42456b743402f47f0ac05b69cfc8e",
+    "url": "/app/static/media/Tema_Majik.b8f42456.jpg"
   },
   {
     "revision": "8327e70a4a9c05836e160d67c9a36331",
