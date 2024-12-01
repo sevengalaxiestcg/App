@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f1ea6736311f67c82fedd0bfe353249",
+    "revision": "4178c7622b9468b099a740604626b171",
     "url": "/app/index.html"
   },
   {
-    "revision": "f522d9d8226a3748453c",
-    "url": "/app/static/css/main.495885b3.chunk.css"
+    "revision": "b571f5c11182195ffc48",
+    "url": "/app/static/css/main.7fc46bc3.chunk.css"
   },
   {
-    "revision": "c9f6a44f5f8fa0cca0c0",
-    "url": "/app/static/js/2.8ea3c3d6.chunk.js"
+    "revision": "94aa6489b81e2a5db8e6",
+    "url": "/app/static/js/2.76085101.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/app/static/js/2.8ea3c3d6.chunk.js.LICENSE.txt"
+    "url": "/app/static/js/2.76085101.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f522d9d8226a3748453c",
-    "url": "/app/static/js/main.71354247.chunk.js"
+    "revision": "b571f5c11182195ffc48",
+    "url": "/app/static/js/main.37bcac6a.chunk.js"
   },
   {
     "revision": "fb683d993c694aeb9312",
@@ -988,6 +988,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/static/media/Tema_Stroj.1b880cb0.jpg"
   },
   {
+    "revision": "f5993bb30cafd6e9e9cfb8f4aa6360ab",
+    "url": "/app/static/media/bg-deck-adroit.f5993bb3.png"
+  },
+  {
+    "revision": "292ee74bf1a66479611b99bc3181f663",
+    "url": "/app/static/media/bg-deck-gaia.292ee74b.png"
+  },
+  {
+    "revision": "702e839e104838e5131750ace489691f",
+    "url": "/app/static/media/bg-deck-majik.702e839e.png"
+  },
+  {
+    "revision": "45471b2d2ea39a6ce7816e70dd53c9e0",
+    "url": "/app/static/media/bg-deck-stroj.45471b2d.png"
+  },
+  {
     "revision": "1c57bb4e01408463ac6e738d82417cac",
     "url": "/app/static/media/font.1c57bb4e.woff"
   },
@@ -1002,5 +1018,21 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cf9cee745d7fd238c4eb6aa0bf4a1142",
     "url": "/app/static/media/font.cf9cee74.woff2"
+  },
+  {
+    "revision": "2063e3800c2e3ed16bf9afb0db9e7a35",
+    "url": "/app/static/media/pedra-deck-adroit.2063e380.png"
+  },
+  {
+    "revision": "a1e6edd8ab2e43b88e9d9cef40ec95ff",
+    "url": "/app/static/media/pedra-deck-gaia.a1e6edd8.png"
+  },
+  {
+    "revision": "dd2e059824264fa1df39781b001adc57",
+    "url": "/app/static/media/pedra-deck-majik.dd2e0598.png"
+  },
+  {
+    "revision": "4150184fa66418d48ce62e47ca9fa69d",
+    "url": "/app/static/media/pedra-deck-stroj.4150184f.png"
   }
 ]);
