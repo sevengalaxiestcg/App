@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0c0f32b00ccd6dcde11da169a836898",
+    "revision": "a0e9aeb22bc601de5620c7fca122d7f3",
     "url": "/app/index.html"
   },
   {
-    "revision": "f5cc536528dc4b6b96c2",
-    "url": "/app/static/css/main.c4a6a549.chunk.css"
+    "revision": "52cb0043cdea360fd87d",
+    "url": "/app/static/css/main.6f686089.chunk.css"
   },
   {
-    "revision": "ec2a23e1c9429151a590",
-    "url": "/app/static/js/2.f33e919a.chunk.js"
+    "revision": "b0a9f2ccfffb0a26f70a",
+    "url": "/app/static/js/2.4cdc3062.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/app/static/js/2.f33e919a.chunk.js.LICENSE.txt"
+    "url": "/app/static/js/2.4cdc3062.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f5cc536528dc4b6b96c2",
-    "url": "/app/static/js/main.a365845a.chunk.js"
+    "revision": "52cb0043cdea360fd87d",
+    "url": "/app/static/js/main.b575ff44.chunk.js"
   },
   {
     "revision": "fb683d993c694aeb9312",
@@ -178,10 +178,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "98fa60d89fa153a30b1c069d6226006a",
     "url": "/app/static/media/A1-F1-Zyberion Nexus-codF3.98fa60d8.png"
-  },
-  {
-    "revision": "c071a3cd9cc6d70ec47a3266b8372dd4",
-    "url": "/app/static/media/A1-F1-Zyberion-Nexus-codF3.c071a3cd.png"
   },
   {
     "revision": "cb5710edb07ed2991a520dc6310452ff",
@@ -524,10 +520,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/static/media/M1-19-Öthuren Djelko-cod128.0035de5c.png"
   },
   {
-    "revision": "a9c8b0eac95fd94f4e52ddc13af4ea12",
-    "url": "/app/static/media/M1-19-Öthuren-Djelko-cod128.a9c8b0ea.png"
-  },
-  {
     "revision": "909d1d1930764472cca3fd189c7d0753",
     "url": "/app/static/media/M1-2-Laydon-cod101.909d1d19.png"
   },
@@ -626,10 +618,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3ebcfaa79c3884acb83fef8e2e06c9cd",
     "url": "/app/static/media/M1-9-Zakan-O-Gladiador-cod108.3ebcfaa7.png"
-  },
-  {
-    "revision": "4d27ed6d2c4108877173f1f42d2cd801",
-    "url": "/app/static/media/M1-F1-Templo-da- Magia-Arcana-codF4.4d27ed6d.png"
   },
   {
     "revision": "e4b503d34b7d363f528190d013c2263d",
