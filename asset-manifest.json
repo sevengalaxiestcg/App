@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/app/static/css/main.6f686089.chunk.css",
-    "main.js": "/app/static/js/main.b575ff44.chunk.js",
-    "main.js.map": "/app/static/js/main.b575ff44.chunk.js.map",
+    "main.css": "/app/static/css/main.b00230a0.chunk.css",
+    "main.js": "/app/static/js/main.af284b1b.chunk.js",
+    "main.js.map": "/app/static/js/main.af284b1b.chunk.js.map",
     "runtime-main.js": "/app/static/js/runtime-main.95af9303.js",
     "runtime-main.js.map": "/app/static/js/runtime-main.95af9303.js.map",
-    "static/js/2.4cdc3062.chunk.js": "/app/static/js/2.4cdc3062.chunk.js",
-    "static/js/2.4cdc3062.chunk.js.map": "/app/static/js/2.4cdc3062.chunk.js.map",
+    "static/js/2.2b80a5bb.chunk.js": "/app/static/js/2.2b80a5bb.chunk.js",
+    "static/js/2.2b80a5bb.chunk.js.map": "/app/static/js/2.2b80a5bb.chunk.js.map",
     "index.html": "/app/index.html",
-    "precache-manifest.3b9ff89379180e7827606df7500c7d39.js": "/app/precache-manifest.3b9ff89379180e7827606df7500c7d39.js",
+    "precache-manifest.d835a9d30b761e0a604dc7cf5e3bf7cb.js": "/app/precache-manifest.d835a9d30b761e0a604dc7cf5e3bf7cb.js",
     "service-worker.js": "/app/service-worker.js",
-    "static/css/main.6f686089.chunk.css.map": "/app/static/css/main.6f686089.chunk.css.map",
-    "static/js/2.4cdc3062.chunk.js.LICENSE.txt": "/app/static/js/2.4cdc3062.chunk.js.LICENSE.txt",
+    "static/css/main.b00230a0.chunk.css.map": "/app/static/css/main.b00230a0.chunk.css.map",
+    "static/js/2.2b80a5bb.chunk.js.LICENSE.txt": "/app/static/js/2.2b80a5bb.chunk.js.LICENSE.txt",
     "static/media/+.png": "/app/static/media/+.e45a8ff7.png",
     "static/media/A1-1-Bylub-cod83.png": "/app/static/media/A1-1-Bylub-cod83.ac11fd44.png",
     "static/media/A1-10-Zenthos-cod92.png": "/app/static/media/A1-10-Zenthos-cod92.b1b170c1.png",
@@ -52,7 +52,7 @@
     "static/media/A1-9-Neonyus-cod91.png": "/app/static/media/A1-9-Neonyus-cod91.55ad900c.png",
     "static/media/A1-F1-Zyberion Nexus-codF3.png": "/app/static/media/A1-F1-Zyberion Nexus-codF3.98fa60d8.png",
     "static/media/A1-R1-Recurso-codR3.png": "/app/static/media/A1-R1-Recurso-codR3.cb5710ed.png",
-    "static/media/Background.css": "/app/static/media/Stroj_15.52d2a498.jpg",
+    "static/media/Background.css": "/app/static/media/Stroj_21.63102d7b.jpg",
     "static/media/Game.css": "/app/static/media/Nivel.ee9bc101.png",
     "static/media/G1-1-Themis-Althea-cod21.png": "/app/static/media/G1-1-Themis-Althea-cod21.16485c9a.png",
     "static/media/G1-10-Alana-Dimitris-cod30.png": "/app/static/media/G1-10-Alana-Dimitris-cod30.ae182f2d.png",
@@ -175,7 +175,7 @@
     "static/media/Simbolo_Majik.png": "/app/static/media/Simbolo_Majik.d6602168.png",
     "static/media/Simbolo_SevenG.png": "/app/static/media/Simbolo_SevenG.b7b08966.png",
     "static/media/Simbolo_Stroj.png": "/app/static/media/Simbolo_Stroj.4041f166.png",
-    "static/media/SelectTheme.css": "/app/static/media/Tema_Stroj.1b880cb0.jpg",
+    "static/media/SelectTheme.css": "/app/static/media/Tema_Stroj.46af982b.jpg",
     "static/media/DeckBuilder.css": "/app/static/media/bg-deck-stroj.45471b2d.png",
     "static/media/MyFontsWebfontsKit.css": "/app/static/media/font.cf9cee74.woff2",
     "static/media/pedra-deck-adroit.png": "/app/static/media/pedra-deck-adroit.2063e380.png",
@@ -185,8 +185,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.95af9303.js",
-    "static/js/2.4cdc3062.chunk.js",
-    "static/css/main.6f686089.chunk.css",
-    "static/js/main.b575ff44.chunk.js"
+    "static/js/2.2b80a5bb.chunk.js",
+    "static/css/main.b00230a0.chunk.css",
+    "static/js/main.af284b1b.chunk.js"
   ]
 }
