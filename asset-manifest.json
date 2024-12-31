@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/app/static/css/main.0880c6e1.chunk.css",
-    "main.js": "/app/static/js/main.71b135ba.chunk.js",
-    "main.js.map": "/app/static/js/main.71b135ba.chunk.js.map",
+    "main.css": "/app/static/css/main.314629f2.chunk.css",
+    "main.js": "/app/static/js/main.98bd967a.chunk.js",
+    "main.js.map": "/app/static/js/main.98bd967a.chunk.js.map",
     "runtime-main.js": "/app/static/js/runtime-main.95af9303.js",
     "runtime-main.js.map": "/app/static/js/runtime-main.95af9303.js.map",
-    "static/js/2.4a89b176.chunk.js": "/app/static/js/2.4a89b176.chunk.js",
-    "static/js/2.4a89b176.chunk.js.map": "/app/static/js/2.4a89b176.chunk.js.map",
+    "static/js/2.220bff32.chunk.js": "/app/static/js/2.220bff32.chunk.js",
+    "static/js/2.220bff32.chunk.js.map": "/app/static/js/2.220bff32.chunk.js.map",
     "index.html": "/app/index.html",
-    "precache-manifest.eff80237fe9a83f022bef7e321b0bc45.js": "/app/precache-manifest.eff80237fe9a83f022bef7e321b0bc45.js",
+    "precache-manifest.eef987457dc1857218902e5130f37e0e.js": "/app/precache-manifest.eef987457dc1857218902e5130f37e0e.js",
     "service-worker.js": "/app/service-worker.js",
-    "static/css/main.0880c6e1.chunk.css.map": "/app/static/css/main.0880c6e1.chunk.css.map",
-    "static/js/2.4a89b176.chunk.js.LICENSE.txt": "/app/static/js/2.4a89b176.chunk.js.LICENSE.txt",
+    "static/css/main.314629f2.chunk.css.map": "/app/static/css/main.314629f2.chunk.css.map",
+    "static/js/2.220bff32.chunk.js.LICENSE.txt": "/app/static/js/2.220bff32.chunk.js.LICENSE.txt",
     "static/media/+.png": "/app/static/media/+.e45a8ff7.png",
     "static/media/A1-1-Bylub-cod83.png": "/app/static/media/A1-1-Bylub-cod83.ac11fd44.png",
     "static/media/A1-10-Zenthos-cod92.png": "/app/static/media/A1-10-Zenthos-cod92.b1b170c1.png",
@@ -177,8 +177,14 @@
     "static/media/Simbolo_SevenG.png": "/app/static/media/Simbolo_SevenG.b7b08966.png",
     "static/media/Simbolo_Stroj.png": "/app/static/media/Simbolo_Stroj.4041f166.png",
     "static/media/SelectTheme.css": "/app/static/media/Tema_Stroj.46af982b.jpg",
+    "static/media/baixar.png": "/app/static/media/baixar.5f38e268.png",
     "static/media/DeckBuilder.css": "/app/static/media/bg-deck-stroj.45471b2d.png",
+    "static/media/criar deck.png": "/app/static/media/criar deck.21845f01.png",
+    "static/media/duplicar.png": "/app/static/media/duplicar.1beb8938.png",
+    "static/media/excluir.png": "/app/static/media/excluir.d11a8ab8.png",
+    "static/media/exportar.png": "/app/static/media/exportar.9e7dc1e3.png",
     "static/media/MyFontsWebfontsKit.css": "/app/static/media/font.cf9cee74.woff2",
+    "static/media/importar.png": "/app/static/media/importar.af7db9f7.png",
     "static/media/pedra-deck-adroit.png": "/app/static/media/pedra-deck-adroit.2063e380.png",
     "static/media/pedra-deck-gaia.png": "/app/static/media/pedra-deck-gaia.a1e6edd8.png",
     "static/media/pedra-deck-majik.png": "/app/static/media/pedra-deck-majik.dd2e0598.png",
@@ -186,8 +192,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.95af9303.js",
-    "static/js/2.4a89b176.chunk.js",
-    "static/css/main.0880c6e1.chunk.css",
-    "static/js/main.71b135ba.chunk.js"
+    "static/js/2.220bff32.chunk.js",
+    "static/css/main.314629f2.chunk.css",
+    "static/js/main.98bd967a.chunk.js"
   ]
 }
